@@ -1,0 +1,44 @@
+#heading{
+font-size: 20px;
+width: 100%;
+margin: 0px;
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+}
+
+#note{
+    font-size: 15px;
+width: 100%;
+color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed{
+    float: left;
+}
+ .disk{
+     width: 200px;
+     border-radius: 100px;
+ }
+
+ .volume{
+    float: right;
+}
+
+.playon{
+    width: 120px;
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-top: 160px;
+}
+ 
